@@ -2,7 +2,7 @@
 
  🧬 Ex-Biology Research Assistant transitioning into Bioinformatics and sharing personal projects<br/>
  👩‍🏫 Completing a Bioinformatics MS at Boston University with a background in 🧠 Neuroscience and 🧪 Biology <br/>
- 💚 Hobbies: Bharatnatyam Indian Classical Dance, Zentangles Art, Graphic Design, Weightlifting <br/>
+ 💚 Hobbies: Bharatanatyam Indian Classical Dance, Zentangles Art, Graphic Design, Weightlifting <br/>
  👩🏽‍💻 #learninginpublic <br/>
  💭 Currently learning about applications of Machine Learning in Biological Analysis
 
